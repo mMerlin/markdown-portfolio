@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# microMerlin
+## or µMerlin
+The unknown magician of small systems
