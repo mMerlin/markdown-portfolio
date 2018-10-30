@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* sunny day
+* sci-fi that keeps the science
+* programming, just because
